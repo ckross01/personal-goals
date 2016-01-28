@@ -1,4 +1,4 @@
-# Blog Posts and Resources
+# Blog Posts
 
 ### Redux
 - [ ] [Redux Sagas](http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/)
