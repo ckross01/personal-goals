@@ -22,7 +22,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Complete 10 pomodoros
 - [ ] Watch video [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [ ] Continue course [Immutable JS](https://egghead.io/series/learn-how-to-use-immutable-js)
-- [ ] 2 [code wars katas](http://www.codewars.com)
+- [x] 2 [code wars katas](http://www.codewars.com)
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
