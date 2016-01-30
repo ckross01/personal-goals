@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read [this blog post](http://una.github.io/personal-goals-guide/)
 - [ ] Finish [A brief History of Time](http://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [ ] Complete 10 pomodoros
-- [ ] Watch video [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+- [x] Watch video [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [ ] Continue course [Immutable JS](https://egghead.io/series/learn-how-to-use-immutable-js)
 - [x] 2 [code wars katas](http://www.codewars.com)
 
