@@ -3,8 +3,6 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
-
 # Overarching Goals
 1. Exercise!
 2. Contribute to Node Core
@@ -18,7 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
-- [ ] Finish [A brief History of Time](http://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- [x] Finish [A brief History of Time](http://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
 - [ ] Complete 10 pomodoros
 - [x] Watch video [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [ ] Continue course [Immutable JS](https://egghead.io/series/learn-how-to-use-immutable-js)
