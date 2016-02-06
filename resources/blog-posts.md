@@ -13,6 +13,7 @@
 - [ ] [Functional Neighbors](https://medium.com/@jamiedixon/functional-neighbours-2e8dc556a39a#.80eug7dwj)
 - [ ] [Curry Bind](http://krasimirtsonev.com/blog/article/a-story-about-currying-bind)
 - [ ] [Purely Functional Data Structures Book](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki-ebook/dp/B00AKE1V04/ref=mt_kindle?_encoding=UTF8&me=)
+- [ ] [Does Curry Help](https://hughfdjackson.com/javascript/does-curry-help/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
