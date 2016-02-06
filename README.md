@@ -26,7 +26,7 @@ Personal goals made open source.
 - [ ] Read 2 books
 - [ ] Write 2 Blog Posts
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/)
-- [ ] Have less then 200 emails
+- [ ] Have less than 200 emails
 
 ### Backlog: Side Projects :)
 - [ ] eho (opinionated linter)
