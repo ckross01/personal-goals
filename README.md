@@ -15,12 +15,13 @@ Personal goals made open source.
 ### This Week's Goal: Pomodoros!
 
 ## Things I'll Do This Week:
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
-- [x] Finish [A brief History of Time](http://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
+- [ ] Watch [Tuning Node](http://www.thedotpost.com/2014/11/joe-mccann-tuning-node)
+- [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Complete 10 pomodoros
-- [x] Watch video [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
-- [ ] Continue course [Immutable JS](https://egghead.io/series/learn-how-to-use-immutable-js)
-- [x] 2 [code wars katas](http://www.codewars.com)
+- [ ] Watch video [coders are heard animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
+- [ ] Continue course [Immutable JS]()
+- [ ] 3 [code wars katas](http://www.codewars.com)
+- [ ] Less thank 350 emails
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
