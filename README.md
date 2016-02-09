@@ -18,9 +18,10 @@ Personal goals made open source.
 - [ ] Watch [Tuning Node](http://www.thedotpost.com/2014/11/joe-mccann-tuning-node)
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Complete 10 pomodoros
-- [ ] Watch video [coders are heard animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
+- [x] Watch video [coders are heard animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
 - [ ] 3 [code wars katas](http://www.codewars.com)
 - [ ] Prepare slides and presentation for NodeAZ
+- [ ] Read [Nagle Algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
