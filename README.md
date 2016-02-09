@@ -19,7 +19,6 @@ Personal goals made open source.
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Complete 10 pomodoros
 - [ ] Watch video [coders are heard animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
-- [ ] Continue course [Immutable JS]()
 - [ ] 3 [code wars katas](http://www.codewars.com)
 - [ ] Prepare slides and presentation for NodeAZ
 
