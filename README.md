@@ -15,7 +15,7 @@ Personal goals made open source.
 ### This Week's Goal: Pomodoros!
 
 ## Things I'll Do This Week:
-- [ ] Watch [Tuning Node](http://www.thedotpost.com/2014/11/joe-mccann-tuning-node)
+- [x] Watch [Tuning Node](http://www.thedotpost.com/2014/11/joe-mccann-tuning-node)
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [ ] Complete 10 pomodoros
 - [x] Watch video [coders are heard animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
