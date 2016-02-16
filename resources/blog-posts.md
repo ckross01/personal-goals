@@ -14,6 +14,10 @@
 - [ ] [Curry Bind](http://krasimirtsonev.com/blog/article/a-story-about-currying-bind)
 - [ ] [Purely Functional Data Structures Book](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki-ebook/dp/B00AKE1V04/ref=mt_kindle?_encoding=UTF8&me=)
 - [ ] [Does Curry Help](https://hughfdjackson.com/javascript/does-curry-help/)
+- [ ] [Gentle Introduction to FP](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+
+### JavaScript
+- [ ] [JS Fatigue](http://www.2ality.com/2016/02/js-fatigue-fatigue.html?utm_source=javascriptweekly&utm_medium=email)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -27,6 +31,9 @@
 - [ ] [How I fixed node](http://davidvgalbraith.com/how-i-fixed-node-js/)
 - [ ] [Adding promises to core](https://medium.com/@isntitvacant/adding-promise-support-to-core-a4ea895ccbda#.vwpetam8r)
 - [ ] [How Require Works](http://fredkschott.com/post/2014/06/require-and-the-module-system/)
+- [ ] [Node Buffers know everything](https://github.com/ChALkeR/notes/blob/master/Buffer-knows-everything.md)
+- [ ] [Understanding GC in node](http://blog.codeship.com/understanding-garbage-collection-in-node-js/)
+- [ ] [track down cpu issues in node](http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)

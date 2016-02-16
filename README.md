@@ -15,13 +15,12 @@ Personal goals made open source.
 ### This Week's Goal: Pomodoros!
 
 ## Things I'll Do This Week:
-- [x] Watch [Tuning Node](http://www.thedotpost.com/2014/11/joe-mccann-tuning-node)
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
-- [ ] Complete 10 pomodoros
-- [x] Watch video [coders are heard animals](https://www.youtube.com/watch?v=lrf6xuFq1Ms)
-- [x] 3 [code wars katas](http://www.codewars.com)
-- [ ] Prepare slides and presentation for NodeAZ
-- [x] Read [Nagle Algorithm](https://en.wikipedia.org/wiki/Nagle%27s_algorithm)
+- [ ] Find my preferred way of tracking Pomodoros.
+- [ ] Write a blog post on ES6 features in Node
+- [ ] [How Algorithms Shape our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+- [ ] Have less than 250 emails
+- [ ] 3 [code wars katas](http://www.codewars.com)
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
@@ -29,8 +28,9 @@ Personal goals made open source.
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/)
 - [ ] Have less than 200 emails
 
-### Backlog: Side Projects :)
+### Backlog: Side Projects
 - [ ] eho (opinionated linter)
+- [ ] a stream based websocket tester
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Elm

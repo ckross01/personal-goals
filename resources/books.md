@@ -3,6 +3,7 @@
 - [ ] [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov-ebook/dp/B0046RERXE/ref=mt_kindle?_encoding=UTF8&me=)
 - [ ] [High Performance JavaScript](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X)
 - [ ] [Maintainable JavaScript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680)
+- [ ] [Front end developer Handbook](http://www.frontendhandbook.com/)
 
 ### Lists
 - [ ] [Self Taught Computer Programmer](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
