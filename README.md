@@ -10,17 +10,19 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. Submit a CFP (never done that before)
 
-# February 14, 2016
+# February 21, 2016
 
 ### This Week's Goal: Pomodoros!
 
-## Things I'll Do This Week:
+## Things I'll Do This Week (Generators Week!):
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
-- [x] Find my preferred way of tracking Pomodoros.
-- [ ] Write a blog post on ES6 features in Node
-- [x] [How Algorithms Shape our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
-- [x] Have less than 250 emails
-- [x] 3 [code wars katas](http://www.codewars.com)
+- [ ] Have less than 200 emails (hit my monthly goal!)
+- [ ] [3 Codewars Katas](http://www.codewars.com/)
+- [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+- [ ] [JS Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
+- [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+- [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators)
+- [ ] Write a Blog post on Generators
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
