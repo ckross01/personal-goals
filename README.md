@@ -10,7 +10,7 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. Submit a CFP (never done that before)
 
-# February 7, 2016
+# February 14, 2016
 
 ### This Week's Goal: Pomodoros!
 
@@ -19,8 +19,8 @@ Personal goals made open source.
 - [x] Find my preferred way of tracking Pomodoros.
 - [ ] Write a blog post on ES6 features in Node
 - [x] [How Algorithms Shape our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
-- [ ] Have less than 250 emails
-- [ ] 3 [code wars katas](http://www.codewars.com)
+- [x] Have less than 250 emails
+- [x] 3 [code wars katas](http://www.codewars.com)
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
