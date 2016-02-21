@@ -16,9 +16,9 @@ Personal goals made open source.
 
 ## Things I'll Do This Week:
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
-- [ ] Find my preferred way of tracking Pomodoros.
+- [x] Find my preferred way of tracking Pomodoros.
 - [ ] Write a blog post on ES6 features in Node
-- [ ] [How Algorithms Shape our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+- [x] [How Algorithms Shape our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
 - [ ] Have less than 250 emails
 - [ ] 3 [code wars katas](http://www.codewars.com)
 
