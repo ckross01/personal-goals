@@ -16,19 +16,21 @@ Personal goals made open source.
 
 ## Things I'll Do This Week (Generators Week!):
 - [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
-- [ ] Have less than 200 emails (hit my monthly goal!)
+- [x] Have less than 200 emails (hit my monthly goal!)
 - [ ] [3 Codewars Katas](http://www.codewars.com/)
 - [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
-- [ ] [JS Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
+- [x] [JS Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
 - [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
 - [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators)
 - [ ] Write a Blog post on Generators
+- [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
+- [x] [Learning JavaScript](http://mafintosh.com/learning-javascript.html)
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books
 - [ ] Write 2 Blog Posts
-- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/)
-- [ ] Have less than 200 emails
+- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/)
+- [x] Have less than 200 emails
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)
@@ -38,3 +40,5 @@ Personal goals made open source.
 1. Elm
 2. RxJS
 3. Rust
+4. Clojure
+5. [Algorithms](https://www.coursera.org/learn/algorithmic-toolbox/)

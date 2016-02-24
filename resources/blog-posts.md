@@ -7,10 +7,10 @@
 - [ ] [Redux Loop](https://github.com/raisemarketplace/redux-loop)
 - [ ] [Rethinking Redux](https://voice.kadira.io/rethinking-redux-f1e96daba60c#.f31f7tlf3)
 - [ ] [Writing Redux Tests](http://redux.js.org/docs/recipes/WritingTests.html)
+- [ ] [reduxible](https://github.com/reduxible/reduxible/issues/8)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
-- [ ] [Professor Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC)
 - [ ] [Mostly adequate guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html)
 - [ ] [Intro To Functional Programming with JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c#.d2ktayi8d)
 - [ ] [Functional Neighbors](https://medium.com/@jamiedixon/functional-neighbours-2e8dc556a39a#.80eug7dwj)
@@ -23,9 +23,19 @@
 - [ ] [Functional refactoring in JS](https://medium.com/software-craftsman/functional-refactoring-in-javascript-c0fe718f4efb#.9m486ddhn)
 - [ ] [What functional Programming is and why it makes you better](https://medium.com/@FunctionalWorks/what-functional-programming-is-why-it-makes-you-better-29ee34284a6e#.ofatav4gw)
 - [ ] [From Mathematics to Map Reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html?m=1)
+- [ ] [What is functional programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+- [ ] [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
 
 ### JavaScript
 - [ ] [JS Fatigue](http://www.2ality.com/2016/02/js-fatigue-fatigue.html?utm_source=javascriptweekly&utm_medium=email)
+- [ ] [Build Realtime Collaborative offline first apps with react redux pouchdb and websockets ](http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
+- [ ] [The Framework Learning Cycle](http://eaf4.com/the-framework-cycle/)
+- [ ] [Immutable Data Structures in JS](http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)
+- [ ] [Functions without Function](https://medium.com/@ryanflorence/functions-without-function-bc356ed34a2f#.k6x1003rs)
+- [ ] [ES6 Spread in Depth](https://ponyfoo.com/articles/es6-spread-and-butter-in-depth)
+- [ ] [trampolines in js](http://raganwald.com/2013/03/28/trampolines-in-javascript.html)
+- [ ] [functional mixins](http://raganwald.com/2015/06/17/functional-mixins.html)
+- [ ] [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -47,6 +57,11 @@
 - [ ] [Core support for Promises](https://github.com/nodejs/node/pull/5020)
 - [ ] [NodeJS, React, Boilerplate](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/)
 - [ ] [NodeJS at Road Rules](https://www.joyent.com/blog/node-js-at-road-rules)
+- [ ] [The Art of Node](https://github.com/maxogden/art-of-node#readme)
+- [ ] [Async iterative patterns](http://mostafa-samir.github.io/async-iterative-patterns-pt1/)
+- [ ] [C++ addons for nodejs 4](https://medium.com/@nodesource/c-add-ons-for-node-js-v4-be5d48832933#.p2ttq9xvy)
+- [ ] [node training cirriculum](https://github.com/colonyamerican/node-training-curriculum)
+- [ ] [better front end automation with npm scripts](http://blog.ibangspacebar.com/better-front-end-automation-with-npm-scripts-a-reading-list/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -65,3 +80,20 @@
 ### React
 - [ ] [Philosophies that underly react](http://thepracticaldev.com/christopher-chedeau-on-the-philosophies-of-react)
 - [ ] [React under the hood](https://gumroad.com/l/react-under-the-hood)
+
+### developer
+- [ ] [12 resolutions for programmers](http://matt.might.net/articles/programmers-resolutions/)
+- [ ] [Starters and Maintainers](http://jlongster.com/Starters-and-Maintainers)
+- [ ] [What makes a good beginner open source issue](http://blog.codebar.io/2015/11/20/what-makes-a-good-beginner-issue/)
+- [ ] [How messed up practices become normal](http://danluu.com/wat/)
+- [ ] [New programmer lots of anxiety](http://devpressed.com/t/new-programmer-lots-of-anxiety/404/10)
+- [ ] [The little Print F](http://ferd.ca/the-little-printf.html)
+- [ ] [Working from Paris](https://medium.com/swlh/working-from-paris-c00323452efe#.n19na0ez7)
+- [ ] [How we ended up at microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
+- [ ] [engineering management tools are top priority](http://algeri-wong.com/yishan/engineering-management-tools-are-top-priority.html)
+- [ ] [things i was unprepared for as a lead developer](http://dev-human.com/~pascaldevink/things-i-was-unprepared-for)
+- [ ] [why you are afraid of public speaking](https://www.nczonline.net/blog/2015/06/23/why-youre-afraid-of-public-speaking/)
+- [ ] [things i wish someone had told me when i was learning to code ](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.ycj65od47)
+- [ ] [on building a daily habit of continuous learning ](https://medium.com/towards-a-remarkable-career/on-building-a-daily-habit-of-continuous-learning-82ef77a8aff9#.o6pu25vpg)
+- [ ] [the unemployable programmer](http://unemployable.pen.io/)
+- [ ] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
