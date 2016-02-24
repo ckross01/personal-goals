@@ -21,9 +21,9 @@ Personal goals made open source.
 - [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
 - [x] [JS Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
 - [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
-- [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators)
+- [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators) (6 mins)
 - [ ] Write a Blog post on Generators
-- [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
+- [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg) (32 mins)
 - [x] [Learning JavaScript](http://mafintosh.com/learning-javascript.html)
 
 ### Things I'll Do This Month: Febuary 2016
