@@ -21,10 +21,15 @@ Personal goals made open source.
 - [ ] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)
 - [ ] [Node Streams for the confused](https://www.youtube.com/watch?v=9llfAByho98&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=3) (18 Minutes)
 - [ ] Have less than 175 emails
+- [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
+
+## planning for next week
+- [ ] [NodeSchool Streams](https://github.com/substack/stream-adventure)
+- [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
-- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/)
+- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/) on streams
 - [ ] Have less than 50 emails
 - [ ] Stick with one programming topic to learn
 

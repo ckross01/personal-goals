@@ -39,6 +39,8 @@
 - [ ] [functional mixins](http://raganwald.com/2015/06/17/functional-mixins.html)
 - [ ] [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
 - [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [ ] [A Collection of Items Over Time](https://medium.com/@kahlil/a-collection-of-items-over-time-d1ef68143e98#.1lvg2veoa)
+- [ ] [Functional JavaScript Part 1: Lists](http://blog.jeremyfairbank.com/javascript/functional-javascript-lists-1/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -104,3 +106,4 @@
 - [x] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
 - [ ] [getting ready for http2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
 - [ ] [the single best thing you can do for your career](http://www.donnfelker.com/the-single-best-thing-you-can-do-for-your-career/)
+- [x] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
