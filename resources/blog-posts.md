@@ -38,7 +38,7 @@
 - [ ] [trampolines in js](http://raganwald.com/2013/03/28/trampolines-in-javascript.html)
 - [ ] [functional mixins](http://raganwald.com/2015/06/17/functional-mixins.html)
 - [ ] [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
-- [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw/)
+- [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
