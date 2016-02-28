@@ -8,9 +8,9 @@
 - [ ] [Give me Freedom or Forgeddaboutit ](https://www.youtube.com/watch?v=K8f19pXB3ts) (32 mins)
 
 ### streams
-- [x] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)
+- [ ] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)
 - [ ] [Working with Streams and Buffers](https://www.youtube.com/watch?v=aJrM46yzg0Q&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=2) (51 Minutes)
-- [x] [Node Streams for the confused](https://www.youtube.com/watch?v=9llfAByho98&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=3) (18 Minutes)
+- [ ] [Node Streams for the confused](https://www.youtube.com/watch?v=9llfAByho98&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=3) (18 Minutes)
 
 ### redux
 - [ ] [Dan Abramov Redux](https://www.youtube.com/watch?v=VJ38wSFbM3A)
@@ -27,7 +27,7 @@
 
 ### nodej.js
 - [ ] [nodetuts](http://nodetuts.com/)
-- [ ] [generating a new async](https://www.youtube.com/watch?v=jG0141gfxzY)
+- [x] [generating a new async](https://www.youtube.com/watch?v=jG0141gfxzY)
 - [ ] [How to Read Code](https://www.youtube.com/watch?v=-KgU5sxGtuM&feature=youtu.be&a)
 - [x] [Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
 - [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators)

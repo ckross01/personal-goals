@@ -15,23 +15,25 @@ Personal goals made open source.
 ### This Week's Goal: Complete 5 tasks
 
 ## Things I'll Do This Week:
-- [ ] [3 Codewars Katas](http://www.codewars.com/)
-- [ ] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
-- [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw/)
-- [ ] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)
-- [ ] [Node Streams for the confused](https://www.youtube.com/watch?v=9llfAByho98&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=3) (18 Minutes)
+- [x] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
 - [ ] Have less than 175 emails
 - [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
-
-## planning for next week
-- [ ] [NodeSchool Streams](https://github.com/substack/stream-adventure)
-- [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
+- [x] [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY) (19 mins)
+- [ ] [Node School Generators](https://github.com/isRuslan/learn-generators)
+- [ ] [Generating a New Async](https://www.youtube.com/watch?v=jG0141gfxzY) (21 mins)
+- [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+- [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+- [ ] [ES6 Generators Deliver Go Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+- [ ] [No promises](http://www.2ality.com/2015/03/no-promises.html)
+- [ ] [Asynchronous Generators for ES7](https://github.com/jhusain/asyncgenerator)
+- [ ] [Asynchronous programming with ES6 generators, promises and npm-co](http://webuniverse.io/asynchronous-programming-with-ES6-generators-promises-and-npm-co/)
+- [ ] [async-csp](https://www.npmjs.com/package/async-csp)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
-- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/) on streams
+- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/) on something node related (event emitters?)
 - [ ] Have less than 50 emails
-- [ ] Stick with one programming topic to learn
+- [ ] Stick with one programming topic to learn (this month is generators)
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)
