@@ -5,6 +5,7 @@
 - [ ] [Engineering for the long game](https://www.youtube.com/watch?v=p0jGmgIrf_M&list=PL055Epbe6d5Y86GSg3nhUH3o_v62FGpCI&feature=youtu.be&app=desktop) (19 mins)
 - [ ] [How NPM works](https://www.youtube.com/watch?v=ShRDgdvlZQ8) (27 mins)
 - [ ] [How to fix your community](https://www.youtube.com/watch?v=--hGo2Ff23U&app=desktop)
+- [ ] [Give me Freedom or Forgeddaboutit ](https://www.youtube.com/watch?v=K8f19pXB3ts) (32 mins)
 
 ### streams
 - [ ] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)
@@ -14,6 +15,7 @@
 ### redux
 - [ ] [Dan Abramov Redux](https://www.youtube.com/watch?v=VJ38wSFbM3A)
 - [ ] [JavaScript Air](https://www.youtube.com/watch?v=82M9fKe7hiw) (72 minutes)
+- [ ] [Better Functional Architecture with Redux](https://www.youtube.com/watch?v=RtqWK6lMI5U) (37 minus)
 
 ### functional programming
 - [ ] [The Functional Final Frontier](https://www.youtube.com/watch?v=xeEojV8K7Lk)
@@ -29,7 +31,11 @@
 - [ ] [How to Read Code](https://www.youtube.com/watch?v=-KgU5sxGtuM&feature=youtu.be&a)
 - [x] [Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
 - [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators)
-- [ ] [Event Emitters in Node](https://egghead.io/lessons/node-js-using-eventemitters-in-node-js) (6 mins)
+- [x] [Event Emitters in Node](https://egghead.io/lessons/node-js-using-eventemitters-in-node-js) (6 mins)
+- [ ] [Intro to Testing NodeJS](https://www.youtube.com/watch?v=u2XCdkL4bWI) (30 mins)
+- [ ] [Don't build a distributed monolith](https://www.youtube.com/watch?v=-czp0Y4Z36Y) (38 mins)
 
 ### javascript
 - [x] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
+- [ ] [React.js Conf 2016 - Lin Clark - A Cartoon Guide to the Wilds of Data Handling](https://www.youtube.com/watch?v=WIqbzHdEPVM) (24 mins)
+- [ ] [React.js Conf 2016 - Lightning Talks - Gabe Scholz](https://www.youtube.com/watch?v=Zx4mmvMaAUk&feature=youtu.be) (6 mins)

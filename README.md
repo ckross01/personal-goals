@@ -15,16 +15,17 @@ Personal goals made open source.
 ### This Week's Goal: Pomodoros!
 
 ## Things I'll Do This Week (Generators Week!):
-- [ ] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
+- [x] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
 - [x] Have less than 200 emails (hit my monthly goal!)
 - [ ] [3 Codewars Katas](http://www.codewars.com/)
 - [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
 - [x] [JS Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
 - [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
-- [ ] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators) (6 mins)
+- [x] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators) (6 mins)
 - [ ] Write a Blog post on Generators
-- [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg) (32 mins)
+- [x] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg) (32 mins)
 - [x] [Learning JavaScript](http://mafintosh.com/learning-javascript.html)
+- [x] [I trust you](https://medium.com/@sicross/i-trust-you-3ea865a30538#.jmu7h5ljb)
 
 ### Things I'll Do This Month: Febuary 2016
 - [ ] Read 2 books

@@ -8,6 +8,8 @@
 - [ ] [Rethinking Redux](https://voice.kadira.io/rethinking-redux-f1e96daba60c#.f31f7tlf3)
 - [ ] [Writing Redux Tests](http://redux.js.org/docs/recipes/WritingTests.html)
 - [ ] [reduxible](https://github.com/reduxible/reduxible/issues/8)
+- [ ] [handling async in redux with sagas](http://wecodetheweb.com/2016/01/23/handling-async-in-redux-with-sagas/)
+- [ ] [mastering complex workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
@@ -36,6 +38,7 @@
 - [ ] [trampolines in js](http://raganwald.com/2013/03/28/trampolines-in-javascript.html)
 - [ ] [functional mixins](http://raganwald.com/2015/06/17/functional-mixins.html)
 - [ ] [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
+- [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -62,6 +65,8 @@
 - [ ] [C++ addons for nodejs 4](https://medium.com/@nodesource/c-add-ons-for-node-js-v4-be5d48832933#.p2ttq9xvy)
 - [ ] [node training cirriculum](https://github.com/colonyamerican/node-training-curriculum)
 - [ ] [better front end automation with npm scripts](http://blog.ibangspacebar.com/better-front-end-automation-with-npm-scripts-a-reading-list/)
+- [ ] [node test strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)
+- [ ] [how to develop inside of node_modules](https://github.com/maxogden/dat/blob/master/CONTRIBUTING.md#developing-inside-a-node_modules-folder)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -97,3 +102,5 @@
 - [ ] [on building a daily habit of continuous learning ](https://medium.com/towards-a-remarkable-career/on-building-a-daily-habit-of-continuous-learning-82ef77a8aff9#.o6pu25vpg)
 - [ ] [the unemployable programmer](http://unemployable.pen.io/)
 - [ ] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
+- [ ] [getting ready for http2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
+- [ ] [the single best thing you can do for your career](http://www.donnfelker.com/the-single-best-thing-you-can-do-for-your-career/)
