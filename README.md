@@ -28,7 +28,7 @@ Personal goals made open source.
 - [x] [I trust you](https://medium.com/@sicross/i-trust-you-3ea865a30538#.jmu7h5ljb)
 
 ### Things I'll Do This Month: Febuary 2016
-- [ ] Read 2 books
+- [x] Read 2 books
 - [ ] Write 2 Blog Posts
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/)
 - [x] Have less than 200 emails
