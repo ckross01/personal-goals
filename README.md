@@ -10,28 +10,22 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. Submit a CFP (never done that before)
 
-# February 21, 2016
+# February 28, 2016
 
-### This Week's Goal: Pomodoros!
+### This Week's Goal: Complete 5 tasks
 
-## Things I'll Do This Week (Generators Week!):
-- [x] Finish [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/README.md)
-- [x] Have less than 200 emails (hit my monthly goal!)
+## Things I'll Do This Week:
 - [ ] [3 Codewars Katas](http://www.codewars.com/)
-- [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
-- [x] [JS Generators](https://www.youtube.com/watch?v=Zk_rX2n3Ml8) (9 mins)
-- [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
-- [x] [ECMA Script Generators](https://egghead.io/lessons/ecmascript-6-generators) (6 mins)
-- [ ] Write a Blog post on Generators
-- [x] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg) (32 mins)
-- [x] [Learning JavaScript](http://mafintosh.com/learning-javascript.html)
-- [x] [I trust you](https://medium.com/@sicross/i-trust-you-3ea865a30538#.jmu7h5ljb)
+- [ ] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
+- [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [ ] [Jafar Husain: End to end Reactive Programming at Netflix](https://www.youtube.com/watch?v=LB4lhFJBBq0) (26 mins)
+- [ ] Have less than 175 emails
 
-### Things I'll Do This Month: Febuary 2016
-- [x] Read 2 books
-- [ ] Write 2 Blog Posts
+### Things I'll Do This Month: March 2016
+- [ ] Read 2 books
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/)
-- [x] Have less than 200 emails
+- [ ] Have less than 50 emails
+- [ ] Stick with one programming topic to learn
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)

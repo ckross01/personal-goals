@@ -101,6 +101,6 @@
 - [ ] [things i wish someone had told me when i was learning to code ](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.ycj65od47)
 - [ ] [on building a daily habit of continuous learning ](https://medium.com/towards-a-remarkable-career/on-building-a-daily-habit-of-continuous-learning-82ef77a8aff9#.o6pu25vpg)
 - [ ] [the unemployable programmer](http://unemployable.pen.io/)
-- [ ] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
+- [x] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
 - [ ] [getting ready for http2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
 - [ ] [the single best thing you can do for your career](http://www.donnfelker.com/the-single-best-thing-you-can-do-for-your-career/)

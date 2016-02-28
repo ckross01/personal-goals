@@ -39,3 +39,4 @@
 - [x] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 - [ ] [React.js Conf 2016 - Lin Clark - A Cartoon Guide to the Wilds of Data Handling](https://www.youtube.com/watch?v=WIqbzHdEPVM) (24 mins)
 - [ ] [React.js Conf 2016 - Lightning Talks - Gabe Scholz](https://www.youtube.com/watch?v=Zx4mmvMaAUk&feature=youtu.be) (6 mins)
+- [ ] [Jafar Husain: End to end Reactive Programming at Netflix](https://www.youtube.com/watch?v=LB4lhFJBBq0) (26 mins)
