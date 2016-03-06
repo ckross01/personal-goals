@@ -10,3 +10,4 @@
 
 ### Backlog
 - [ ] [The CLI Book](http://theclibook.com/?utm_source=nodeweekly&utm_medium=email)
+- [ ] [Recommended JS Reading](https://plus.google.com/+AddyOsmani/posts/H3onog42Msj)

@@ -15,20 +15,12 @@ Personal goals made open source.
 ### This Week's Goal: Complete 5 tasks
 
 ## Things I'll Do This Week:
-- [x] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
-- [x] Have less than 175 emails
+- [ ] Have less than 125 emails
 - [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
-- [x] [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY) (19 mins)
-- [ ] [Node School Generators](https://github.com/isRuslan/learn-generators)
-- [x] [Generating a New Async](https://www.youtube.com/watch?v=jG0141gfxzY) (21 mins)
-- [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
-- [x] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
-- [ ] [ES6 Generators Deliver Go Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
-- [ ] [No promises](http://www.2ality.com/2015/03/no-promises.html)
-- [ ] [Asynchronous Generators for ES7](https://github.com/jhusain/asyncgenerator)
-- [ ] [Asynchronous programming with ES6 generators, promises and npm-co](http://webuniverse.io/asynchronous-programming-with-ES6-generators-promises-and-npm-co/)
-- [ ] [async-csp](https://www.npmjs.com/package/async-csp)
-- [x] [Monads on FunFunFunctions](https://www.youtube.com/watch?v=9QveBbn7t_c)
+- [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
+- [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
+- [ ] [FunFunFunction Video]()
+- [ ] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) (1 hour)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books

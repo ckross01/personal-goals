@@ -44,7 +44,6 @@
 - [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [ ] [A Collection of Items Over Time](https://medium.com/@kahlil/a-collection-of-items-over-time-d1ef68143e98#.1lvg2veoa)
 - [ ] [Functional JavaScript Part 1: Lists](http://blog.jeremyfairbank.com/javascript/functional-javascript-lists-1/)
-- [ ] [Recommended JS Reading](https://plus.google.com/+AddyOsmani/posts/H3onog42Msj)
 - [ ] [Kat’s Short Guide To JS Devops Ecosystem](https://medium.com/@maybekatz/kat-s-short-guide-to-js-devops-ecosystem-9ffef67fdb8e#.h7cpl0s5m)
 - [ ] [Designing apis for asynchrony](http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony)
 - [ ] [Actual Uses of ES6 weak map](http://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap)
