@@ -10,6 +10,8 @@
 - [ ] [reduxible](https://github.com/reduxible/reduxible/issues/8)
 - [ ] [handling async in redux with sagas](http://wecodetheweb.com/2016/01/23/handling-async-in-redux-with-sagas/)
 - [ ] [mastering complex workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
+- [ ] [dissection of flux Architecture](http://krasimirtsonev.com/blog/article/dissection-of-flux-architecture-or-how-to-write-your-own-react)
+- [ ] [React and Redux Single Page Applications Resources](https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d#.7lmm3sk3u)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
@@ -27,6 +29,7 @@
 - [ ] [From Mathematics to Map Reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html?m=1)
 - [ ] [What is functional programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [ ] [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
+- [ ] [Anatomy of a Reducer](http://clojure.com/blog/2012/05/15/anatomy-of-reducer.html)
 
 ### JavaScript
 - [ ] [JS Fatigue](http://www.2ality.com/2016/02/js-fatigue-fatigue.html?utm_source=javascriptweekly&utm_medium=email)
@@ -41,6 +44,10 @@
 - [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [ ] [A Collection of Items Over Time](https://medium.com/@kahlil/a-collection-of-items-over-time-d1ef68143e98#.1lvg2veoa)
 - [ ] [Functional JavaScript Part 1: Lists](http://blog.jeremyfairbank.com/javascript/functional-javascript-lists-1/)
+- [ ] [Recommended JS Reading](https://plus.google.com/+AddyOsmani/posts/H3onog42Msj)
+- [ ] [Kat’s Short Guide To JS Devops Ecosystem](https://medium.com/@maybekatz/kat-s-short-guide-to-js-devops-ecosystem-9ffef67fdb8e#.h7cpl0s5m)
+- [ ] [Designing apis for asynchrony](http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony)
+- [ ] [Actual Uses of ES6 weak map](http://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -107,3 +114,8 @@
 - [ ] [getting ready for http2](https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/)
 - [ ] [the single best thing you can do for your career](http://www.donnfelker.com/the-single-best-thing-you-can-do-for-your-career/)
 - [x] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
+- [ ] [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.peokr6i0c)
+- [ ] [2014 2015](http://larahogan.me/blog/2014-2015/)
+- [ ] [Developer Fallacies](https://medium.com/@Heydon/developer-fallacies-70a381fb493c#.7nxpe97rp)
+- [ ] [Coding is boring, unless…](https://blog.enki.com/coding-is-boring-unless-4e496720d664#.w0bf6132o)
+- [ ] [How Should I Think About My Career?](https://breakoutcareers.com/)

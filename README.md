@@ -16,13 +16,13 @@ Personal goals made open source.
 
 ## Things I'll Do This Week:
 - [x] [On Building Coding Confidence](http://iheanyi.com/blog/on-building-coding-confidence/)
-- [ ] Have less than 175 emails
+- [x] Have less than 175 emails
 - [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
 - [x] [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY) (19 mins)
 - [ ] [Node School Generators](https://github.com/isRuslan/learn-generators)
 - [x] [Generating a New Async](https://www.youtube.com/watch?v=jG0141gfxzY) (21 mins)
 - [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
-- [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+- [x] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
 - [ ] [ES6 Generators Deliver Go Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
 - [ ] [No promises](http://www.2ality.com/2015/03/no-promises.html)
 - [ ] [Asynchronous Generators for ES7](https://github.com/jhusain/asyncgenerator)
