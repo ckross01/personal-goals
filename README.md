@@ -20,7 +20,7 @@ Personal goals made open source.
 - [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
 - [x] [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY) (19 mins)
 - [ ] [Node School Generators](https://github.com/isRuslan/learn-generators)
-- [ ] [Generating a New Async](https://www.youtube.com/watch?v=jG0141gfxzY) (21 mins)
+- [x] [Generating a New Async](https://www.youtube.com/watch?v=jG0141gfxzY) (21 mins)
 - [ ] [MDN Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
 - [ ] [How to use Generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
 - [ ] [ES6 Generators Deliver Go Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
@@ -28,6 +28,7 @@ Personal goals made open source.
 - [ ] [Asynchronous Generators for ES7](https://github.com/jhusain/asyncgenerator)
 - [ ] [Asynchronous programming with ES6 generators, promises and npm-co](http://webuniverse.io/asynchronous-programming-with-ES6-generators-promises-and-npm-co/)
 - [ ] [async-csp](https://www.npmjs.com/package/async-csp)
+- [x] [Monads on FunFunFunctions](https://www.youtube.com/watch?v=9QveBbn7t_c)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
