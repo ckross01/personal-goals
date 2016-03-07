@@ -6,6 +6,8 @@
 - [ ] [How NPM works](https://www.youtube.com/watch?v=ShRDgdvlZQ8) (27 mins)
 - [ ] [How to fix your community](https://www.youtube.com/watch?v=--hGo2Ff23U&app=desktop)
 - [ ] [Give me Freedom or Forgeddaboutit ](https://www.youtube.com/watch?v=K8f19pXB3ts) (32 mins)
+- [ ] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) (1 hour)
+- [ ] [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
 ### streams
 - [ ] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)
@@ -24,6 +26,7 @@
 - [ ] [What is Function Currying?](https://egghead.io/lessons/javascript-what-is-currying) (6 mins)
 - [ ] [Functional programming and curry cooking in JS](https://www.youtube.com/watch?v=6Qx5ZAbfqjo) (27 mins)
 - [ ] [Transducers FTW!](https://www.youtube.com/watch?v=MrDvPB8FSMQ&feature=youtu.be)
+- [ ] [Functional JS](https://www.youtube.com/watch?v=XXZA6b8y8kM) (47 mins)
 
 ### nodej.js
 - [ ] [nodetuts](http://nodetuts.com/)

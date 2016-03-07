@@ -30,6 +30,9 @@
 - [ ] [What is functional programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 - [ ] [Currying vs Partial Application](http://www.datchley.name/currying-vs-partial-application/)
 - [ ] [Anatomy of a Reducer](http://clojure.com/blog/2012/05/15/anatomy-of-reducer.html)
+- [ ] [An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c#.b8di86j41)
+- [ ] [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed#.1hqa4x62q)
+- [ ] [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6#.8lhi1z62d)
 
 ### JavaScript
 - [ ] [JS Fatigue](http://www.2ality.com/2016/02/js-fatigue-fatigue.html?utm_source=javascriptweekly&utm_medium=email)

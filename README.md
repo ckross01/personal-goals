@@ -20,7 +20,7 @@ Personal goals made open source.
 - [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
 - [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
 - [ ] [FunFunFunction Video]()
-- [ ] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) (1 hour)
+- [x] [Functional programming and curry cooking in JS](https://www.youtube.com/watch?v=6Qx5ZAbfqjo&index=5&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
