@@ -19,7 +19,7 @@ Personal goals made open source.
 - [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
 - [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
 - [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
-- [ ] [FunFunFunction Video](https://www.youtube.com/watch?v=gTk8nPj11Yk) (18 mins)
+- [x] [FunFunFunction Video](https://www.youtube.com/watch?v=gTk8nPj11Yk) (18 mins)
 - [ ] [Functional Programming in JavaScript. What, Why, and How](https://www.youtube.com/watch?v=xeAdUEIb_ys) (29 mins)
 - [x] [Functional programming and curry cooking in JS](https://www.youtube.com/watch?v=6Qx5ZAbfqjo&index=5&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd)
 
