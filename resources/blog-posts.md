@@ -12,6 +12,8 @@
 - [ ] [mastering complex workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
 - [ ] [dissection of flux Architecture](http://krasimirtsonev.com/blog/article/dissection-of-flux-architecture-or-how-to-write-your-own-react)
 - [ ] [React and Redux Single Page Applications Resources](https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d#.7lmm3sk3u)
+- [ ] [Hot Reloading in React or, an Ode to Accidental Complexity](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.szlrklnwk)
+- [ ] [Redux Mental break through](https://gist.github.com/ryanflorence/887a33c5ab3c283247fe)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
@@ -50,12 +52,14 @@
 - [ ] [Kat’s Short Guide To JS Devops Ecosystem](https://medium.com/@maybekatz/kat-s-short-guide-to-js-devops-ecosystem-9ffef67fdb8e#.h7cpl0s5m)
 - [ ] [Designing apis for asynchrony](http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony)
 - [ ] [Actual Uses of ES6 weak map](http://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap)
+- [ ] [Break it up](http://blog.rrowland.com/2016/03/02/break-it-up/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
 - [ ] [How to use streams pipe](https://github.com/nodejs/nodejs.org/blob/d02b8a26bd557ab1dad3578b9de5e0db8fa74ecc/locale/en/knowledge/advanced/streams/how-to-use-stream-pipe.md)
 - [ ] [What are streams?](https://github.com/nodejs/nodejs.org/blob/d02b8a26bd557ab1dad3578b9de5e0db8fa74ecc/locale/en/knowledge/advanced/streams/what-are-streams.md)
 - [ ] [EZ Streams](https://github.com/Sage/ez-streams)
+- [ ] [Pull Streams Crash Course](https://gist.github.com/dominictarr/613eb1159236501fc789)
 
 ### node js
 - [ ] [Koa](https://medium.com/@l1ambda/why-you-should-use-koa-with-node-js-7c231a8174fa#.ihckq45kv)
@@ -78,6 +82,9 @@
 - [ ] [better front end automation with npm scripts](http://blog.ibangspacebar.com/better-front-end-automation-with-npm-scripts-a-reading-list/)
 - [ ] [node test strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)
 - [ ] [how to develop inside of node_modules](https://github.com/maxogden/dat/blob/master/CONTRIBUTING.md#developing-inside-a-node_modules-folder)
+- [ ] [Understanding Socket.io](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.5xh53thjz)
+- [ ] [Fedor's Blog](http://darksi.de/)
+- [ ] [NodeJS : A quick optimization advice](https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -121,3 +128,8 @@
 - [ ] [Developer Fallacies](https://medium.com/@Heydon/developer-fallacies-70a381fb493c#.7nxpe97rp)
 - [ ] [Coding is boring, unless…](https://blog.enki.com/coding-is-boring-unless-4e496720d664#.w0bf6132o)
 - [ ] [How Should I Think About My Career?](https://breakoutcareers.com/)
+- [ ] [How I got better at Debugging](http://jvns.ca/blog/2015/11/22/how-i-got-better-at-debugging/)
+- [ ] [Sorting Algorithms](http://www.sorting-algorithms.com/)
+- [ ] [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [ ] [Functional Programming in the Real World](http://homepages.inf.ed.ac.uk/wadler/realworld/)
+- [ ] [Curry or Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8#.13wdlqhig)
