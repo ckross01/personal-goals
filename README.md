@@ -20,7 +20,7 @@ Personal goals made open source.
 - [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
 - [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
 - [ ] Work on slides for NodeAZ
-- [ ] Continue course on Functional JS Lite (https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
+- [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
