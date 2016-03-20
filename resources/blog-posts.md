@@ -53,6 +53,8 @@
 - [ ] [Designing apis for asynchrony](http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony)
 - [ ] [Actual Uses of ES6 weak map](http://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap)
 - [ ] [Break it up](http://blog.rrowland.com/2016/03/02/break-it-up/)
+- [ ] [5 tips for writing maintainable js](https://medium.com/@Functionite/5-tips-for-writing-more-maintainable-javascript-code-b87de1147e94#.m5vwp35ev)
+- [ ] [Thoughts on Thunks](http://blog.getify.com/thoughts-on-thunks/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -85,6 +87,9 @@
 - [ ] [Understanding Socket.io](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.5xh53thjz)
 - [ ] [Fedor's Blog](http://darksi.de/)
 - [ ] [NodeJS : A quick optimization advice](https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e)
+- [ ] [node patterns from callbacks to observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804)
+- [ ] [How to get a performance boost using Node.js native addons](https://medium.com/@devlucky/how-to-get-a-performance-boost-using-node-js-native-addons-fd3a24719c85#.iyg2nd7b1)
+- [ ] [back pressure in nodejs](http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -133,3 +138,4 @@
 - [ ] [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [ ] [Functional Programming in the Real World](http://homepages.inf.ed.ac.uk/wadler/realworld/)
 - [ ] [Curry or Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8#.13wdlqhig)
+- [ ] [create more than you consume](https://medium.com/swlh/create-more-than-you-consume-9c1bc89dc71d#.worl34o2a)
