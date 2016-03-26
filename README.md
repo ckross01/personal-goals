@@ -15,18 +15,18 @@ Personal goals made open source.
 ### This Week's Goal: Complete 5 tasks
 
 ## Things I'll Do This Week:
-- [ ] Have less than 75 emails
+- [x] Have less than 75 emails
 - [ ] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
 - [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
 - [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
-- [ ] Work on slides for NodeAZ
-- [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
-- [ ] [State of the Art JS 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.m4f974ysu)
+- [x] Work on slides for NodeAZ
+- [x] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
+- [x] [State of the Art JS 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.m4f974ysu)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/) on something node related (event emitters?)
-- [ ] Have less than 50 emails
+- [x] Have less than 50 emails
 - [ ] Stick with one programming topic to learn (this month is streams)
 
 ### Backlog: Side Projects

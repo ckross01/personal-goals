@@ -35,6 +35,8 @@
 - [ ] [An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c#.b8di86j41)
 - [ ] [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed#.1hqa4x62q)
 - [ ] [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6#.8lhi1z62d)
+- [ ] [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
+- [ ] [What Functional Programming Is + Why It Makes You Better](https://medium.com/@FunctionalWorks/what-functional-programming-is-why-it-makes-you-better-29ee34284a6e#.ll7bbjv0m)
 
 ### JavaScript
 - [ ] [JS Fatigue](http://www.2ality.com/2016/02/js-fatigue-fatigue.html?utm_source=javascriptweekly&utm_medium=email)
@@ -55,6 +57,7 @@
 - [ ] [Break it up](http://blog.rrowland.com/2016/03/02/break-it-up/)
 - [ ] [5 tips for writing maintainable js](https://medium.com/@Functionite/5-tips-for-writing-more-maintainable-javascript-code-b87de1147e94#.m5vwp35ev)
 - [ ] [Thoughts on Thunks](http://blog.getify.com/thoughts-on-thunks/)
+- [ ] [Using ES6 Generators To Short-Circuit Hierarchical Data Iteration](http://derickbailey.com/2015/10/05/using-es6-generators-to-short-circuit-hierarchical-data-iteration/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -90,6 +93,9 @@
 - [ ] [node patterns from callbacks to observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804)
 - [ ] [How to get a performance boost using Node.js native addons](https://medium.com/@devlucky/how-to-get-a-performance-boost-using-node-js-native-addons-fd3a24719c85#.iyg2nd7b1)
 - [ ] [back pressure in nodejs](http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/)
+- [ ] [Managing Frontend in the Microservices Architecture](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.htm)
+- [ ] [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804)
+- [ ] [Diving into C++ internals of node](http://darksi.de/c.cpp-in-node/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -108,6 +114,14 @@
 ### React
 - [ ] [Philosophies that underly react](http://thepracticaldev.com/christopher-chedeau-on-the-philosophies-of-react)
 - [ ] [React under the hood](https://gumroad.com/l/react-under-the-hood)
+- [ ] [Elegant Functional Architecture for React](https://medium.com/@gilbox/an-elegant-functional-architecture-for-react-faa3fb42b75b#.k9zicvlyr)
+- [ ] [react-howto](https://github.com/petehunt/react-howto)
+- [ ] [My React List](https://medium.com/@dan_abramov/my-react-list-862227952a8c#.frji0i1ri)
+- [ ] [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+
+### libuv
+- [ ] [An Introduction to libuv](http://nikhilm.github.io/uvbook/)
+- [ ] [learn uv](https://github.com/thlorenz/learnuv)
 
 ### developer
 - [ ] [12 resolutions for programmers](http://matt.might.net/articles/programmers-resolutions/)
@@ -139,3 +153,11 @@
 - [ ] [Functional Programming in the Real World](http://homepages.inf.ed.ac.uk/wadler/realworld/)
 - [ ] [Curry or Partial Application](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8#.13wdlqhig)
 - [ ] [create more than you consume](https://medium.com/swlh/create-more-than-you-consume-9c1bc89dc71d#.worl34o2a)
+- [ ] [the art of the command line](https://github.com/jlevy/the-art-of-command-line)
+- [ ] [The importance of coding buddies and other advice for programmers](http://www.itworld.com/article/2932599/enterprise-software/the-importance-of-coding-buddies-and-other-advice-for-programmers.html#tk.itwsotd)
+- [ ] [learning by answering questions](http://stacktoheap.com/blog/2012/10/17/learning-by-answering-questions/)
+- [ ] [You Don't Read Code, You Explore It](http://prog21.dadgum.com/194.html)
+- [ ] [Learning TDD with Katas](https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492#.xvpryr1no)
+- [ ] [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
+- [ ] [Transitioning to meta-management](http://larahogan.me/blog/transition-meta-management/)
+- [ ] [How We Get Things Done](https://engineering.canva.com/2015/08/25/how-we-get-things-done/)

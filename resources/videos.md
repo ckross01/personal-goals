@@ -38,6 +38,7 @@
 - [x] [Event Emitters in Node](https://egghead.io/lessons/node-js-using-eventemitters-in-node-js) (6 mins)
 - [ ] [Intro to Testing NodeJS](https://www.youtube.com/watch?v=u2XCdkL4bWI) (30 mins)
 - [ ] [Don't build a distributed monolith](https://www.youtube.com/watch?v=-czp0Y4Z36Y) (38 mins)
+- [ ] [Building high quality services at Uber with Node.js](https://vimeo.com/109294569)
 
 ### javascript
 - [x] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)

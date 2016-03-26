@@ -12,3 +12,4 @@
 - [ ] [The CLI Book](http://theclibook.com/?utm_source=nodeweekly&utm_medium=email)
 - [ ] [Recommended JS Reading](https://plus.google.com/+AddyOsmani/posts/H3onog42Msj)
 - [ ] [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+- [ ] [Libuv](http://thlorenz.com/learnuv/book/)
