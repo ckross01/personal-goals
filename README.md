@@ -24,6 +24,7 @@ Personal goals made open source.
 - [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
 - [ ] [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
 - [ ] [The Little JavaScripter](http://www.crockford.com/javascript/little.html)
+- [ ] [Losing motivation - FunFunFunction #25](https://www.youtube.com/watch?v=RQg_Q4HYYpg)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books
