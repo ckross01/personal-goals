@@ -19,7 +19,7 @@ Personal goals made open source.
 - [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
 - [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
 - [ ] [node js buffer api changes](https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97#.gc95td89s)
-- [ ] Finish Blog Post on Event Emitters with Arrow Functions
+- [x] Finish Blog Post on Event Emitters with Arrow Functions
 - [ ] [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
 - [ ] [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
