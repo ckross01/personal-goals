@@ -26,6 +26,7 @@ Personal goals made open source.
 - [ ] [The Little JavaScripter](http://www.crockford.com/javascript/little.html)
 - [x] [Losing motivation - FunFunFunction #25](https://www.youtube.com/watch?v=RQg_Q4HYYpg)
 - [ ] [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
+- [ ] [Immutability is not enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
 
 ### Things I'll Do This Month: March 2016
 - [ ] Read 2 books

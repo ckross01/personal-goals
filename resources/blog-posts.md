@@ -58,6 +58,7 @@
 - [ ] [5 tips for writing maintainable js](https://medium.com/@Functionite/5-tips-for-writing-more-maintainable-javascript-code-b87de1147e94#.m5vwp35ev)
 - [ ] [Thoughts on Thunks](http://blog.getify.com/thoughts-on-thunks/)
 - [ ] [Using ES6 Generators To Short-Circuit Hierarchical Data Iteration](http://derickbailey.com/2015/10/05/using-es6-generators-to-short-circuit-hierarchical-data-iteration/)
+- [ ] [es6 generators](http://www.2ality.com/2015/03/es6-generators.html)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
