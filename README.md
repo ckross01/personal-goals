@@ -10,28 +10,21 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. Submit a CFP (never done that before)
 
-# March 27, 2016
+# April 10, 2016
 
-### This Week's Goal: 1 blog post
+### This Week's Goal: Submit my CFP to CascadiaJS
 
 ## Things I'll Do This Week:
-- [x] [conference proposals](http://rckbt.me/2014/01/conference-proposals/)
-- [ ] [Stream Handbook](https://github.com/substack/stream-handbook)
-- [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
+- [ ] Submit my CFP to CascadiaJS
+- [ ] Finish Dune
 - [ ] [node js buffer api changes](https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97#.gc95td89s)
-- [x] Finish Blog Post on Event Emitters with Arrow Functions
-- [x] [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
-- [ ] [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
-- [ ] [The Little JavaScripter](http://www.crockford.com/javascript/little.html)
-- [x] [Losing motivation - FunFunFunction #25](https://www.youtube.com/watch?v=RQg_Q4HYYpg)
-- [ ] [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
-- [ ] [Immutability is not enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
+- [ ] 3 codewars katas
 
-### Things I'll Do This Month: March 2016
+### Things I'll Do This Month: April 2016
 - [ ] Read 2 books
-- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) [Slides](http://www.decksetapp.com/) on something node related (event emitters?)
-- [x] Have less than 50 emails
+- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) for practice on a talk I want to give.
+- [ ] Submit a CFP
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)
@@ -43,3 +36,4 @@ Personal goals made open source.
 3. Rust
 4. Clojure
 5. [Algorithms](https://www.coursera.org/learn/algorithmic-toolbox/)
+6. Node Debugger

@@ -14,6 +14,7 @@
 - [ ] [React and Redux Single Page Applications Resources](https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d#.7lmm3sk3u)
 - [ ] [Hot Reloading in React or, an Ode to Accidental Complexity](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.szlrklnwk)
 - [ ] [Redux Mental break through](https://gist.github.com/ryanflorence/887a33c5ab3c283247fe)
+- [ ] [What I learned from Redux - the "Redux" Pattern](http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
@@ -37,6 +38,9 @@
 - [ ] [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6#.8lhi1z62d)
 - [ ] [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 - [ ] [What Functional Programming Is + Why It Makes You Better](https://medium.com/@FunctionalWorks/what-functional-programming-is-why-it-makes-you-better-29ee34284a6e#.ll7bbjv0m)
+- [ ] [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
+- [ ] [Immutability is not enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
+- [ ] [functional programming for js people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.asjyzlczo)
 
 ### JavaScript
 - [ ] [JS Fatigue](http://www.2ality.com/2016/02/js-fatigue-fatigue.html?utm_source=javascriptweekly&utm_medium=email)
@@ -97,6 +101,7 @@
 - [ ] [Managing Frontend in the Microservices Architecture](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.htm)
 - [ ] [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804)
 - [ ] [Diving into C++ internals of node](http://darksi.de/c.cpp-in-node/)
+- [ ] [you dont know node](http://webapplog.com/you-dont-know-node/#main)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
