@@ -4,6 +4,7 @@
 - [ ] [High Performance JavaScript](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X)
 - [ ] [Maintainable JavaScript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680)
 - [ ] [Front end developer Handbook](http://www.frontendhandbook.com/)
+- [ ] [Mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
 ### Lists
 - [ ] [Self Taught Computer Programmer](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)

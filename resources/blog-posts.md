@@ -63,6 +63,7 @@
 - [ ] [Thoughts on Thunks](http://blog.getify.com/thoughts-on-thunks/)
 - [ ] [Using ES6 Generators To Short-Circuit Hierarchical Data Iteration](http://derickbailey.com/2015/10/05/using-es6-generators-to-short-circuit-hierarchical-data-iteration/)
 - [ ] [es6 generators](http://www.2ality.com/2015/03/es6-generators.html)
+- [ ] [Processing Binary Protocols with Client-Side JavaScript](http://blog.mgechev.com/2015/02/06/parsing-binary-protocol-data-javascript-typedarrays-blobs/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -167,3 +168,5 @@
 - [ ] [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
 - [ ] [Transitioning to meta-management](http://larahogan.me/blog/transition-meta-management/)
 - [ ] [How We Get Things Done](https://engineering.canva.com/2015/08/25/how-we-get-things-done/)
+- [ ] [Scalable Distributed data structures](https://www.usenix.org/legacy/publications/library/proceedings/osdi2000/full_papers/gribble/gribble_html/dds.html)
+- [ ] [Sketching data Structures](http://lkozma.net/blog/sketching-data-structures/)
