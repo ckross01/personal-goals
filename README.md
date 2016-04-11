@@ -8,14 +8,14 @@ Personal goals made open source.
 2. Contribute to Node Core
 3. Write more blog posts
 4. Get better at JavaScript
-5. Submit a CFP (never done that before)
+5. [x] Submit a CFP (never done that before)
 
 # April 10, 2016
 
 ### This Week's Goal: Submit my CFP to CascadiaJS
 
 ## Things I'll Do This Week:
-- [ ] Submit my CFP to CascadiaJS
+- [x] Submit my CFP to CascadiaJS
 - [ ] Finish Dune
 - [ ] [node js buffer api changes](https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97#.gc95td89s)
 - [ ] 3 codewars katas
@@ -25,7 +25,7 @@ Personal goals made open source.
 ### Things I'll Do This Month: April 2016
 - [ ] Read 2 books
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) for practice on a talk I want to give.
-- [ ] Submit a CFP
+- [x] Submit a CFP
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)
