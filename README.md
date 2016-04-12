@@ -17,10 +17,11 @@ Personal goals made open source.
 ## Things I'll Do This Week:
 - [x] Submit my CFP to CascadiaJS
 - [ ] Finish Dune
-- [ ] [node js buffer api changes](https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97#.gc95td89s)
+- [x] [node js buffer api changes](https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97#.gc95td89s)
 - [ ] 3 codewars katas
 - [ ] Blog post on testing event emitters
 - [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
+- [x] [FunFunFunctions](https://www.youtube.com/watch?v=PhUb7y9WZGs)
 
 ### Things I'll Do This Month: April 2016
 - [ ] Read 2 books
