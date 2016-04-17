@@ -28,6 +28,7 @@
 - [ ] [Functional programming and curry cooking in JS](https://www.youtube.com/watch?v=6Qx5ZAbfqjo) (27 mins)
 - [ ] [Transducers FTW!](https://www.youtube.com/watch?v=MrDvPB8FSMQ&feature=youtu.be)
 - [ ] [Functional JS](https://www.youtube.com/watch?v=XXZA6b8y8kM) (47 mins)
+- [ ] [Functional All the Things: A Functional Panel](https://www.youtube.com/watch?v=re4oOOkqs3E) (41 mins)
 
 ### nodej.js
 - [ ] [nodetuts](http://nodetuts.com/)

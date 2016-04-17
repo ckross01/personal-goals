@@ -64,6 +64,7 @@
 - [ ] [Using ES6 Generators To Short-Circuit Hierarchical Data Iteration](http://derickbailey.com/2015/10/05/using-es6-generators-to-short-circuit-hierarchical-data-iteration/)
 - [ ] [es6 generators](http://www.2ality.com/2015/03/es6-generators.html)
 - [ ] [Processing Binary Protocols with Client-Side JavaScript](http://blog.mgechev.com/2015/02/06/parsing-binary-protocol-data-javascript-typedarrays-blobs/)
+- [ ] [Functional programming in Javascript. Deconstructing the Pareto.js](https://medium.com/@brunovincius/functional-programming-in-javascript-deconstructing-the-pareto-js-45ef6f27e191#.uo6kq81uc)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
