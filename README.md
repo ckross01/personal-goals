@@ -12,7 +12,7 @@ Personal goals made open source.
 
 # April 17, 2016
 
-### This Week's Goal: Submit my CFP to CascadiaJS
+### This Week's Goal: Finish Dune
 
 ## Things I'll Do This Week:
 - [ ] Finish Dune
