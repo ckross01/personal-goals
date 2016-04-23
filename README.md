@@ -16,10 +16,10 @@ Personal goals made open source.
 
 ## Things I'll Do This Week:
 - [ ] Finish Dune
-- [ ] 3 codewars katas
+- [x] 3 codewars katas
 - [ ] Blog post on testing event emitters
 - [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
-- [ ] Present at NodeAZ on 'Web Sockets with Redux'
+- [x] Present at NodeAZ on 'Web Sockets with Redux'
 
 ### Things I'll Do This Month: April 2016
 - [ ] Read 2 books
