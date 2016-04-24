@@ -10,20 +10,19 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. [x] Submit a CFP (never done that before)
 
-# April 17, 2016
+# April 24, 2016
 
-### This Week's Goal: Finish Dune
+### This Week's Goal: Post Redux/WS code to Github
 
 ## Things I'll Do This Week:
-- [ ] Finish Dune
-- [x] 3 codewars katas
-- [ ] Blog post on testing event emitters
-- [ ] Continue course on [Functional JS Lite](https://frontendmasters.com/courses/functional-js-lite/#v=mpx9vosfmi&p=0.3056)
-- [x] Present at NodeAZ on 'Web Sockets with Redux'
+- [ ] Continue reading A Dance with Dragons
+- [ ] Checkout RethinkDB
+- [ ] [Who should own your engineering team’s skill debt?](https://medium.com/shaping-work/who-should-own-your-engineering-team-s-skill-debt-3c3f07bbefe9#.llw26jksl)
+- [ ] [Node, npm, and Service Oriented Architecture](https://www.youtube.com/watch?v=5yK3lx-PQV0) (38 mins)
 
 ### Things I'll Do This Month: April 2016
 - [ ] Read 2 books
-- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) for practice on a talk I want to give.
+- [x] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) for practice on a talk I want to give.
 - [x] Submit a CFP
 
 ### Backlog: Side Projects
