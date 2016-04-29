@@ -15,11 +15,11 @@ Personal goals made open source.
 ### This Week's Goal: Post Redux/WS code to Github
 
 ## Things I'll Do This Week:
-- [ ] Continue reading A Dance with Dragons
-- [ ] Checkout RethinkDB
+- [x] Continue reading A Dance with Dragons
+- [x] Checkout RethinkDB
 - [ ] [Who should own your engineering team’s skill debt?](https://medium.com/shaping-work/who-should-own-your-engineering-team-s-skill-debt-3c3f07bbefe9#.llw26jksl)
 - [ ] [Node, npm, and Service Oriented Architecture](https://www.youtube.com/watch?v=5yK3lx-PQV0) (38 mins)
-- [ ] Push ws-redux code to github
+- [x] Push ws-redux code to github
 - [ ] Start draft of blog post about ws-redux
 
 ### Things I'll Do This Month: April 2016

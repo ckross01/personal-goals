@@ -104,6 +104,7 @@
 - [ ] [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804)
 - [ ] [Diving into C++ internals of node](http://darksi.de/c.cpp-in-node/)
 - [ ] [you dont know node](http://webapplog.com/you-dont-know-node/#main)
+- [ ] [BUILDING A TCP SERVICE USING NODE.JS](http://blog.yld.io/2016/02/23/building-a-tcp-service-using-node-js/#.VyA2Y5PytP0)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -171,3 +172,6 @@
 - [ ] [How We Get Things Done](https://engineering.canva.com/2015/08/25/how-we-get-things-done/)
 - [ ] [Scalable Distributed data structures](https://www.usenix.org/legacy/publications/library/proceedings/osdi2000/full_papers/gribble/gribble_html/dds.html)
 - [ ] [Sketching data Structures](http://lkozma.net/blog/sketching-data-structures/)
+- [ ] [Linux Insides](https://www.gitbook.com/book/0xax/linux-insides/details)
+- [ ] [career development](http://engineering.khanacademy.org/posts/career-development.htm)
+- [ ] [Manufacturing quality time](https://m.signalvnoise.com/manufacturing-quality-time-fe043fa7b7a1#.qh1b5hmbt)
