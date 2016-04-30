@@ -65,6 +65,8 @@
 - [ ] [es6 generators](http://www.2ality.com/2015/03/es6-generators.html)
 - [ ] [Processing Binary Protocols with Client-Side JavaScript](http://blog.mgechev.com/2015/02/06/parsing-binary-protocol-data-javascript-typedarrays-blobs/)
 - [ ] [Functional programming in Javascript. Deconstructing the Pareto.js](https://medium.com/@brunovincius/functional-programming-in-javascript-deconstructing-the-pareto-js-45ef6f27e191#.uo6kq81uc)
+- [ ] [v8 fast property access](https://developers.google.com/v8/design#fast-property-access)
+- [ ] [async await](http://tc39.github.io/ecmascript-asyncawait/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -105,6 +107,7 @@
 - [ ] [Diving into C++ internals of node](http://darksi.de/c.cpp-in-node/)
 - [ ] [you dont know node](http://webapplog.com/you-dont-know-node/#main)
 - [ ] [BUILDING A TCP SERVICE USING NODE.JS](http://blog.yld.io/2016/02/23/building-a-tcp-service-using-node-js/#.VyA2Y5PytP0)
+- [ ] [The Node.js Event Loop, Timers, and process.nextTick()](https://github.com/nodejs/node/blob/master/doc/topics/the-event-loop-timers-and-nexttick.md)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -175,3 +178,6 @@
 - [ ] [Linux Insides](https://www.gitbook.com/book/0xax/linux-insides/details)
 - [ ] [career development](http://engineering.khanacademy.org/posts/career-development.htm)
 - [ ] [Manufacturing quality time](https://m.signalvnoise.com/manufacturing-quality-time-fe043fa7b7a1#.qh1b5hmbt)
+- [ ] [Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
+- [ ] [System Design Cheat Sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f?utm_source=Software+Lead+Weekly&utm_campaign=1f67d9915c-SWLW_179&utm_medium=email&utm_term=0_efe3d3cd5b-1f67d9915c-198303113)
+- [ ] [How to be a Programmer: Community Version](https://braydie.gitbooks.io/how-to-be-a-programmer/content/en/index.html)
