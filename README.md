@@ -18,9 +18,9 @@ Personal goals made open source.
 - [x] Continue reading A Dance with Dragons
 - [x] Checkout RethinkDB
 - [x] [Who should own your engineering team’s skill debt?](https://medium.com/shaping-work/who-should-own-your-engineering-team-s-skill-debt-3c3f07bbefe9#.llw26jksl)
-- [ ] [Node, npm, and Service Oriented Architecture](https://www.youtube.com/watch?v=5yK3lx-PQV0) (38 mins)
+- [x] [Node, npm, and Service Oriented Architecture](https://www.youtube.com/watch?v=5yK3lx-PQV0) (38 mins)
 - [x] Push ws-redux code to github
-- [ ] Start draft of blog post about ws-redux
+- [x] Start draft of blog post about ws-redux
 
 ### Things I'll Do This Month: April 2016
 - [ ] Read 2 books
@@ -37,4 +37,3 @@ Personal goals made open source.
 3. [Rust](https://doc.rust-lang.org/book/README.html)
 4. Clojure
 5. [Algorithms](https://www.coursera.org/learn/algorithmic-toolbox/)
-6. Node Debugger
