@@ -10,22 +10,20 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. [x] Submit a CFP (never done that before)
 
-# April 24, 2016
+# May 1st, 2016
 
-### This Week's Goal: Post Redux/WS code to Github
+### This Week's Goal:
 
 ## Things I'll Do This Week:
-- [x] Continue reading A Dance with Dragons
-- [x] Checkout RethinkDB
-- [x] [Who should own your engineering team’s skill debt?](https://medium.com/shaping-work/who-should-own-your-engineering-team-s-skill-debt-3c3f07bbefe9#.llw26jksl)
-- [x] [Node, npm, and Service Oriented Architecture](https://www.youtube.com/watch?v=5yK3lx-PQV0) (38 mins)
-- [x] Push ws-redux code to github
-- [x] Start draft of blog post about ws-redux
+- [ ] Continue reading A Dance with Dragons
+- [ ] Continue draft of blog post about ws-redux
+- [ ] [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
+- [ ] [Effective Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
+- [ ] [µWebSockets: Highly scalable C++11 WebSocket server library](https://www.reddit.com/r/cpp/comments/4ccpsa/%C2%B5websockets_highly_scalable_c11_websocket_server/)
 
 ### Things I'll Do This Month: April 2016
-- [ ] Read 2 books
-- [x] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) for practice on a talk I want to give.
-- [x] Submit a CFP
+- [ ] Read 1 book
+- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) on something cool in node.
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)
