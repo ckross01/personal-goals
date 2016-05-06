@@ -15,13 +15,13 @@ Personal goals made open source.
 ### This Week's Goal:
 
 ## Things I'll Do This Week:
-- [ ] Continue reading A Dance with Dragons
+- [x] Continue reading A Dance with Dragons
 - [ ] Continue draft of blog post about ws-redux
 - [ ] [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [ ] [Effective Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
 - [ ] [µWebSockets: Highly scalable C++11 WebSocket server library](https://www.reddit.com/r/cpp/comments/4ccpsa/%C2%B5websockets_highly_scalable_c11_websocket_server/)
 
-### Things I'll Do This Month: April 2016
+### Things I'll Do This Month: May 2016
 - [ ] Read 1 book
 - [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) on something cool in node.
 
