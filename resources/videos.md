@@ -40,7 +40,7 @@
 - [ ] [Intro to Testing NodeJS](https://www.youtube.com/watch?v=u2XCdkL4bWI) (30 mins)
 - [ ] [Don't build a distributed monolith](https://www.youtube.com/watch?v=-czp0Y4Z36Y) (38 mins)
 - [ ] [Building high quality services at Uber with Node.js](https://vimeo.com/109294569)
-- [ ] [Async Frontiers in JavaScript](https://vimeo.com/132786072) (53 mins)
+- [x] [Async Frontiers in JavaScript](https://vimeo.com/132786072) (53 mins)
 - [ ] [Ryan Dahl Talk](https://www.youtube.com/watch?v=GhFrlX0LdFA)
 
 ### javascript
