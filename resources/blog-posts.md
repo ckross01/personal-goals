@@ -15,6 +15,7 @@
 - [ ] [Hot Reloading in React or, an Ode to Accidental Complexity](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.szlrklnwk)
 - [ ] [Redux Mental break through](https://gist.github.com/ryanflorence/887a33c5ab3c283247fe)
 - [ ] [What I learned from Redux - the "Redux" Pattern](http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/)
+- [x] [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52#.dqs93zkfs)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
@@ -67,6 +68,7 @@
 - [ ] [Functional programming in Javascript. Deconstructing the Pareto.js](https://medium.com/@brunovincius/functional-programming-in-javascript-deconstructing-the-pareto-js-45ef6f27e191#.uo6kq81uc)
 - [ ] [v8 fast property access](https://developers.google.com/v8/design#fast-property-access)
 - [ ] [async await](http://tc39.github.io/ecmascript-asyncawait/)
+- [ ] [case for generators](http://nikolay.rocks/2016-05-03-case-for-generators)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -108,6 +110,8 @@
 - [ ] [you dont know node](http://webapplog.com/you-dont-know-node/#main)
 - [ ] [BUILDING A TCP SERVICE USING NODE.JS](http://blog.yld.io/2016/02/23/building-a-tcp-service-using-node-js/#.VyA2Y5PytP0)
 - [ ] [The Node.js Event Loop, Timers, and process.nextTick()](https://github.com/nodejs/node/blob/master/doc/topics/the-event-loop-timers-and-nexttick.md)
+- [ ] [What does your webstack look like?](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/)
+- [ ] [Debugging Node.js applications using core dumps](https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)

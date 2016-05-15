@@ -10,16 +10,19 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. [x] Submit a CFP (never done that before)
 
-# May 1st, 2016
+# May 15th, 2016
 
 ### This Week's Goal:
 
 ## Things I'll Do This Week:
-- [x] Continue reading A Dance with Dragons
-- [ ] Continue draft of blog post about ws-redux
+- [ ] Continue reading A Dance with Dragons
+- [ ] Present at NodeAZ
 - [ ] [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [ ] [Effective Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
 - [ ] [µWebSockets: Highly scalable C++11 WebSocket server library](https://www.reddit.com/r/cpp/comments/4ccpsa/%C2%B5websockets_highly_scalable_c11_websocket_server/)
+- [ ] [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+- [ ] [DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
+- [ ] [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52#.dqs93zkfs)
 
 ### Things I'll Do This Month: May 2016
 - [ ] Read 1 book
