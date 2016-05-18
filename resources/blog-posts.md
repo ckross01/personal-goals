@@ -69,6 +69,7 @@
 - [ ] [v8 fast property access](https://developers.google.com/v8/design#fast-property-access)
 - [ ] [async await](http://tc39.github.io/ecmascript-asyncawait/)
 - [ ] [case for generators](http://nikolay.rocks/2016-05-03-case-for-generators)
+- [ ] [Generators and Iterators](http://greim.github.io/gen/dist/00-intro.html)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -112,6 +113,7 @@
 - [ ] [The Node.js Event Loop, Timers, and process.nextTick()](https://github.com/nodejs/node/blob/master/doc/topics/the-event-loop-timers-and-nexttick.md)
 - [ ] [What does your webstack look like?](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/)
 - [ ] [Debugging Node.js applications using core dumps](https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
+- [ ] [Rust for Node.js developers - Part 1 - Introduction to Rust](http://fredrik.anderzon.se/2016/05/10/rust-for-node-developers-part-1-introduction/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
