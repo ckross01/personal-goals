@@ -10,20 +10,16 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. [x] Submit a CFP (never done that before)
 
-# May 15th, 2016
+# May 23th, 2016
 
 ### This Week's Goal:
 
 ## Things I'll Do This Week:
-- [x] Continue reading A Dance with Dragons
-- [x] Present at NodeAZ
-- [x] [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
-- [ ] [Effective Learning Strategies for Programmers](http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/)
-- [ ] [µWebSockets: Highly scalable C++11 WebSocket server library](https://www.reddit.com/r/cpp/comments/4ccpsa/%C2%B5websockets_highly_scalable_c11_websocket_server/)
-- [ ] [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+- [ ] Continue reading A Dance with Dragons
+- [ ] [fear of losing a technical edge](https://www.oreilly.com/ideas/ask-the-cto-new-manager-has-a-fear-of-losing-a-technical-edge)
+- [ ] [Memory Management Masterclass with Addy Osmani](https://www.youtube.com/watch?v=LaxbdIyBkL0) (55 mins)
+- [ ] [How Does NodeJS Work?](https://blog.ghaiklor.com/how-nodejs-works-bfe09efc80ca#.y21trdmgg)
 - [ ] [DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
-- [ ] [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52#.dqs93zkfs)
-- [x] [JS developers who don’t know what closure is are fine](https://uselessdevblog.wordpress.com/2016/04/11/js-developers-who-dont-know-what-closure-is-are-fine/)
 
 ### Things I'll Do This Month: May 2016
 - [ ] Read 1 book

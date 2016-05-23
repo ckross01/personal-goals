@@ -15,7 +15,7 @@
 - [ ] [Hot Reloading in React or, an Ode to Accidental Complexity](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.szlrklnwk)
 - [ ] [Redux Mental break through](https://gist.github.com/ryanflorence/887a33c5ab3c283247fe)
 - [ ] [What I learned from Redux - the "Redux" Pattern](http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/)
-- [x] [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52#.dqs93zkfs)
+- [ ] [redux-observable](https://medium.com/@benlesh/redux-observable-ec0b00d2eb52#.dqs93zkfs)
 
 ### functional programming
 - [ ] [Transducers in JS](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.f8hs2oieu)
@@ -70,6 +70,7 @@
 - [ ] [async await](http://tc39.github.io/ecmascript-asyncawait/)
 - [ ] [case for generators](http://nikolay.rocks/2016-05-03-case-for-generators)
 - [ ] [Generators and Iterators](http://greim.github.io/gen/dist/00-intro.html)
+- [ ] [Refactoring Video Store JS](http://martinfowler.com/articles/refactoring-video-store-js/)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)
@@ -114,6 +115,8 @@
 - [ ] [What does your webstack look like?](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/)
 - [ ] [Debugging Node.js applications using core dumps](https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
 - [ ] [Rust for Node.js developers - Part 1 - Introduction to Rust](http://fredrik.anderzon.se/2016/05/10/rust-for-node-developers-part-1-introduction/)
+- [ ] [Simple Profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
+- [ ] [performance garbage collection](https://strongloop.com/strongblog/node-js-performance-garbage-collection/)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
