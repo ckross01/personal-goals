@@ -117,6 +117,8 @@
 - [ ] [Rust for Node.js developers - Part 1 - Introduction to Rust](http://fredrik.anderzon.se/2016/05/10/rust-for-node-developers-part-1-introduction/)
 - [ ] [Simple Profiling](https://nodejs.org/en/docs/guides/simple-profiling/)
 - [ ] [performance garbage collection](https://strongloop.com/strongblog/node-js-performance-garbage-collection/)
+- [ ] [How to Use Rust with Node.js When Performance Matters](https://blog.risingstack.com/how-to-use-rust-with-node-when-performance-matters/)
+- [ ] [The Node.js Event Loop, Timers, and process.nextTick()](https://github.com/nodejs/node/blob/master/doc/topics/the-event-loop-timers-and-nexttick.md)
 
 ### Buffers
 - [ ] [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
@@ -129,8 +131,10 @@
 ### coding
 - [ ] [Write code that is easy to delete](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 
-### libuv
-- [ ] [Libuv book](http://nikhilm.github.io/uvbook/)
+### Rust
+- [ ] [The Path to Rust](http://thesquareplanet.com/blog/the-path-to-rust/)
+- [ ] [Diving into Rust for the first time](https://hacks.mozilla.org/2015/05/diving-into-rust-for-the-first-time/)
+- [ ] [The Rust Programming Language](https://doc.rust-lang.org/book/README.html)
 
 ### React
 - [ ] [Philosophies that underly react](http://thepracticaldev.com/christopher-chedeau-on-the-philosophies-of-react)

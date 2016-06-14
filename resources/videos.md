@@ -9,6 +9,7 @@
 - [ ] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) (1 hour)
 - [ ] [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [ ] [Memory Management Masterclass with Addy Osmani](https://www.youtube.com/watch?v=LaxbdIyBkL0) (55 mins)
+- [ ] [Jonathan Blow on Software Quality at the CSUA GM2](https://www.youtube.com/watch?annotation_id=c5229b97-c73f-4405-9bd1-6338d0490e5a&feature=cards&src_vid=MdlHgIJrQn0&v=k56wra39lwA) (82 mins)
 
 ### streams
 - [ ] [NodeJS Streams Primer](https://www.youtube.com/watch?v=yOSNQZm3Trw&list=PLLO-uAO11Coy6oIomjkQlXmkubI4Dizqm&index=1) (11 Minutes)

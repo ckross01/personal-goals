@@ -10,20 +10,18 @@ Personal goals made open source.
 4. Get better at JavaScript
 5. [x] Submit a CFP (never done that before)
 
-# May 23th, 2016
+# June 12th, 2016
 
 ### This Week's Goal:
 
 ## Things I'll Do This Week:
 - [ ] Continue reading A Dance with Dragons
-- [ ] [fear of losing a technical edge](https://www.oreilly.com/ideas/ask-the-cto-new-manager-has-a-fear-of-losing-a-technical-edge)
 - [ ] [Memory Management Masterclass with Addy Osmani](https://www.youtube.com/watch?v=LaxbdIyBkL0) (55 mins)
 - [ ] [How Does NodeJS Work?](https://blog.ghaiklor.com/how-nodejs-works-bfe09efc80ca#.y21trdmgg)
-- [ ] [DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
 
-### Things I'll Do This Month: May 2016
+### Things I'll Do This Month: June 2016
 - [ ] Read 1 book
-- [x] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) on something cool in node.
+- [ ] Present at [NodeAZ](http://www.meetup.com/NodeAZ/) on something cool in node.
 
 ### Backlog: Side Projects
 - [ ] eho (opinionated linter)
