@@ -16,8 +16,9 @@ Personal goals made open source.
 
 ## Things I'll Do This Week:
 - [ ] Continue reading A Dance with Dragons
-- [ ] [Memory Management Masterclass with Addy Osmani](https://www.youtube.com/watch?v=LaxbdIyBkL0) (55 mins)
-- [ ] [How Does NodeJS Work?](https://blog.ghaiklor.com/how-nodejs-works-bfe09efc80ca#.y21trdmgg)
+- [ ] [History of Streams](http://dominictarr.com/post/145135293917/history-of-streams)
+- [ ] [Architecture of Node.js’ Internal Codebase](https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-codebase-57cd8376b71f#.ruvlje4wy)
+- [ ] [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) (30 mins)
 
 ### Things I'll Do This Month: June 2016
 - [ ] Read 1 book

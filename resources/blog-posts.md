@@ -71,6 +71,7 @@
 - [ ] [case for generators](http://nikolay.rocks/2016-05-03-case-for-generators)
 - [ ] [Generators and Iterators](http://greim.github.io/gen/dist/00-intro.html)
 - [ ] [Refactoring Video Store JS](http://martinfowler.com/articles/refactoring-video-store-js/)
+- [ ] [The Hitchhiker's Guide to Memory Management in JavaScript](https://nbdev.surge.sh/#/gist/21885286a207c05bf1194a35490420c1?_k=hoa82m)
 
 ### streams
 - [ ] [Streams FTW](https://jakearchibald.com/2016/streams-ftw)

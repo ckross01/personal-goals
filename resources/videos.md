@@ -43,6 +43,7 @@
 - [ ] [Building high quality services at Uber with Node.js](https://vimeo.com/109294569)
 - [x] [Async Frontiers in JavaScript](https://vimeo.com/132786072) (53 mins)
 - [ ] [Ryan Dahl Talk](https://www.youtube.com/watch?v=GhFrlX0LdFA)
+- [ ] [Slaying Monoliths with Docker and Node.js, a Netflix Original](https://www.youtube.com/watch?v=B90OabhYJpA) (23 mins)
 
 ### javascript
 - [x] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
